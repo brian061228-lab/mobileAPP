@@ -245,9 +245,6 @@ fun GameStatusRow(score: Int, timeLeft: Int) {
     }
 }
 
-// Preview는 Android Studio의 디자인 탭에서만 사용되며, 실제 앱 실행과는 무관합니다
-// 필요하지 않다면 삭제해도 됩니다
-
 /*
 @Preview(showBackground = true)
 @Composable
